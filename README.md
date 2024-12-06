@@ -4,7 +4,7 @@ This Python program features a user interface that gathers news articles from va
 
 ### How to run the program
 
-The entire information aggregator is within the 'NewsApp' class and the unittest is under the 'TestNewsApp' class. You will need an local IDE to open the Jupyter notebook. To execute the program, simply run all the code after opening the PP_AT1.ipynb, and the user interface will automatically appear. This includes importing all necessary packages, implementing the aggregator and user interface code, and running all unit tests. If you prefer to execute the code without running the unit tests, you can do so by importing the required package and the 'NewsApp' class.
+The entire information aggregator is within the 'NewsApp' class and the unittest is under the 'TestNewsApp' class. You will need an local IDE to open the Jupyter notebook. To execute the program, simply run all the code after opening the news.ipynb, and the user interface will automatically appear. This includes importing all necessary packages, implementing the aggregator and user interface code, and running all unit tests. If you prefer to execute the code without running the unit tests, you can do so by importing the required package and the 'NewsApp' class.
 
 ### API
 
